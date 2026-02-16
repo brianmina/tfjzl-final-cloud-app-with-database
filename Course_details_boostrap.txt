@@ -1,0 +1,1 @@
+https://github.com/brianmina/Final-Online-Course-APP/blob/main/onlinecourse/templates/onlinecourse/course_detail_bootstrap.html
